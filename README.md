@@ -2,7 +2,7 @@
 Cambridge MEng Coursework
 
 1. Exploring usage of norm approximation in convex optimization problems.
-- Starting with the simplest form norm approximation using l_1,〖 l〗_2  and 〖 l〗_∞ norms, their algorithmically-applicable forms were derived: linear programming and least squares method 
+- Starting with the simplest form norm approximation using l_1, l_2  and l_∞ norms, their algorithmically-applicable forms were derived: linear programming and least squares method 
 - applied to 5 different overdetermined data pairs
 - The performance of the different norms were compared by comparing computation times and histogramming the residuals
 - it is found that there is a trade-off in using each norm for approximation. 
