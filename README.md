@@ -10,7 +10,7 @@ Cambridge MEng Coursework
 - This unconstrained minimization problem was solved using gradient descent, and its performance was evaluated via a simple convergence analysis. 
 - A sparse signal reconstruction was explored in a l_1-regularised Least squares problem. This optimization problem was solved using a Newton interior-point method and resulted in a very successful signal recovery. This was compared to a minimum-energy reconstruction result without l_1-heuristics, which showed very poor signal recovery
 
-2. Comparing the algorithmic performances of Simulated Annealing (SA) and Generic Algorithm (GA), in solving a 5D function.
+2. Comparing the algorithmic performances of Simulated Annealing (SA) and Genetic Algorithm (GA), in solving a 5D function.
 
 <img width="400" alt="Screenshot 2022-03-24 at 17 24 30" src="https://user-images.githubusercontent.com/71874390/160012829-07a0c797-f44a-49ef-b081-9d3f7e759d2d.png">
 
