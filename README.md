@@ -11,8 +11,12 @@ Cambridge MEng Coursework
 - A sparse signal reconstruction was explored in a l_1-regularised Least squares problem. This optimization problem was solved using a Newton interior-point method and resulted in a very successful signal recovery. This was compared to a minimum-energy reconstruction result without l_1-heuristics, which showed very poor signal recovery
 
 2. Comparing the algorithmic performances of Simulated Annealing (SA) and Genetic Algorithm (GA), in solving a 5D function.
-
+<p align="center">
 <img width="400" alt="Screenshot 2022-03-24 at 17 24 30" src="https://user-images.githubusercontent.com/71874390/160012829-07a0c797-f44a-49ef-b081-9d3f7e759d2d.png">
+</p>
+<p align="center">
+<img width="807" alt="Screenshot 2022-03-24 at 17 26 59" src="https://user-images.githubusercontent.com/71874390/160042392-61ad0b83-1411-48c1-aa43-39b5e5f33278.png">
+</p>
 
 -  In the global objective minimization of highly complicated continuous-variable functions, like the Rana Function, the Simulated Annealing Algorithm outperforms the Genetic Algorithm without dispute.
 -  However, if the constraint was to keep the computational time or cost equivalent, rather than the number of objective evaluations to compare the two algorithms, results may have been different, as GA is computationally more efficient than SA. Unlike SA, which is a sequential program, GAs are well-suited to implementation on parallel computers, where objective function and constraint evaluations can be done simultaneously. 
