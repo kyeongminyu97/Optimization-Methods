@@ -3,7 +3,7 @@ Cambridge Coursework
 
 There are 2 parts of this project, and the report pdf for each project is attached.
 
-# 1. Exploring usage of norm approximation in convex optimization problems.
+# 1. Exploring using norm approximation in convex optimization problems.
 - Starting with the simplest form norm approximation using l_1, l_2  and l_∞ norms, their algorithmically-applicable forms were derived: linear programming and least squares method 
 - applied to 5 different overdetermined data pairs
 - The performance of the different norms were compared by comparing computation times and histogramming the residuals
