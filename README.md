@@ -24,3 +24,5 @@ There are 2 parts of this project, and the report pdf for each project is attach
 -  However, if the constraint was to keep the computational time or cost equivalent, rather than the number of objective evaluations to compare the two algorithms, results may have been different, as GA is computationally more efficient than SA. Unlike SA, which is a sequential program, GAs are well-suited to implementation on parallel computers, where objective function and constraint evaluations can be done simultaneously. 
 - The algorithmic performance would have been better if we had used Evolution Strategies instead of GA, which is an algorithm that also simulates natural evolution and is computationally efficient also, but it is designed to be applied to continuous parameter optimization problems.
 - Reference: https://github.com/rmsolgi/geneticalgorithm for GA
+
+I can provide full code and reports upon request
