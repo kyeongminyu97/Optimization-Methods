@@ -1,7 +1,9 @@
 # Practical Optimization Methods
 Cambridge Coursework
 
-1. Exploring usage of norm approximation in convex optimization problems.
+There are 2 parts of this project, and the report pdf for each project is attached.
+
+# 1. Exploring usage of norm approximation in convex optimization problems.
 - Starting with the simplest form norm approximation using l_1, l_2  and l_∞ norms, their algorithmically-applicable forms were derived: linear programming and least squares method 
 - applied to 5 different overdetermined data pairs
 - The performance of the different norms were compared by comparing computation times and histogramming the residuals
@@ -10,7 +12,7 @@ Cambridge Coursework
 - This unconstrained minimization problem was solved using gradient descent, and its performance was evaluated via a simple convergence analysis. 
 - A sparse signal reconstruction was explored in a l_1-regularised Least squares problem. This optimization problem was solved using a Newton interior-point method and resulted in a very successful signal recovery. This was compared to a minimum-energy reconstruction result without l_1-heuristics, which showed very poor signal recovery
 
-2. Comparing the algorithmic performances of Simulated Annealing (SA) and Genetic Algorithm (GA), in solving a 5D function.
+# 2. Comparing the algorithmic performances of Simulated Annealing (SA) and Genetic Algorithm (GA), in solving a 5D function.
 <p align="center">
 <img width="400" alt="Screenshot 2022-03-24 at 17 24 30" src="https://user-images.githubusercontent.com/71874390/160012829-07a0c797-f44a-49ef-b081-9d3f7e759d2d.png">
 </p>
