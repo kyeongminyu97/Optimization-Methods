@@ -1,5 +1,5 @@
-# Practical-Optimization
-Cambridge MEng Coursework
+# Practical Optimization Methods
+Cambridge Coursework
 
 1. Exploring usage of norm approximation in convex optimization problems.
 - Starting with the simplest form norm approximation using l_1, l_2  and l_∞ norms, their algorithmically-applicable forms were derived: linear programming and least squares method 
