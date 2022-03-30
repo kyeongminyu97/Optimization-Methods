@@ -25,4 +25,4 @@ There are 2 parts of this project, and the report pdf for each project is attach
 - The algorithmic performance would have been better if we had used Evolution Strategies instead of GA, which is an algorithm that also simulates natural evolution and is computationally efficient also, but it is designed to be applied to continuous parameter optimization problems.
 - Reference: https://github.com/rmsolgi/geneticalgorithm for GA
 
-I can provide full code and reports upon request
+
