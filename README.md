@@ -12,7 +12,7 @@ In the first part of the project, we explore using norm approximation for convex
 - applied to 5 different overdetermined data pairs
 - The performance of the different norms were compared by comparing computation times and histogramming the residuals
 <p align="center">
-<img width="1038" alt="Screenshot 2022-04-18 at 02 20 40" src="https://user-images.githubusercontent.com/71874390/163764724-8ccf63ad-6a64-42fb-9194-12e24f2656f6.png">
+<img width="700" alt="Screenshot 2022-04-18 at 02 20 40" src="https://user-images.githubusercontent.com/71874390/163764724-8ccf63ad-6a64-42fb-9194-12e24f2656f6.png">
 </p>
 - it is found that there is a trade-off in using each norm for approximation. 
 - Central path formulation using a logarithmic barrier function was explored. 
@@ -22,8 +22,8 @@ In the first part of the project, we explore using norm approximation for convex
 </p>
 - A sparse signal reconstruction was explored in a l_1-regularised Least squares problem. This optimization problem was solved using a Newton interior-point method and resulted in a very successful signal recovery. This was compared to a minimum-energy reconstruction result without l_1-heuristics, which showed very poor signal recovery
 <p align="center">
-<img width="897" alt="Screenshot 2022-04-18 at 02 21 21" src="https://user-images.githubusercontent.com/71874390/163765040-daea3d57-cbfd-4e31-bc09-b833722ae486.png">
-<img width="881" alt="Screenshot 2022-04-18 at 02 21 38" src="https://user-images.githubusercontent.com/71874390/163765043-f368264c-14a2-4ce5-bea8-6d434af8a1a6.png">
+<img width="600" alt="Screenshot 2022-04-18 at 02 21 21" src="https://user-images.githubusercontent.com/71874390/163765040-daea3d57-cbfd-4e31-bc09-b833722ae486.png">
+<img width="600" alt="Screenshot 2022-04-18 at 02 21 38" src="https://user-images.githubusercontent.com/71874390/163765043-f368264c-14a2-4ce5-bea8-6d434af8a1a6.png">
 </p>
 
 ## 2. Comparing the algorithmic performances of Simulated Annealing (SA) and Genetic Algorithm (GA)
